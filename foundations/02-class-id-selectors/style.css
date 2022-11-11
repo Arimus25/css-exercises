@@ -1,0 +1,21 @@
+.main {
+    color: black;
+    background-color: pink;
+    font-size:  32px;
+}
+
+#cooler {
+    font-size: 48px;
+}
+
+.blue {
+    color: blue;
+    font-size: 60px;
+}
+
+.green {
+    color: black;
+    background-color: lightgreen;
+    font-size: 40px;
+    font-weight: 700;
+}
